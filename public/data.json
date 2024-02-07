@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"title": "10 Tips for Effective Web Development",
+		"blog_img": "https://i.postimg.cc/v89g9FcZ/online-banking-software-laptop-with-program-code-screen-39422-798.jpg",
+		"author_img": "https://media.istockphoto.com/id/1364917563/photo/businessman-smiling-with-arms-crossed-on-white-background.jpg?s=612x612&w=0&k=20&c=NtM9Wbs1DBiGaiowsxJY6wNCnLf0POa65rYEwnZymrM=",
+		"author_name": "John Doe",
+		"reading_time": 10,
+		"published_date": "Jan 7, 2022",
+		"hashtags": ["technology", "programming", "webdev"]
+	},
+	{
+		"id": 2,
+		"title": "The Role of Data in Scientific Research",
+		"blog_img": "https://i.postimg.cc/vZDGrf3t/tablet-with-analytic-infography-1212-99.jpg",
+		"author_img": "https://media.istockphoto.com/id/1348209421/photo/smiling-business-woman-working-with-laptop-while-looking-at-camera-in-modern-startup-office.jpg?s=612x612&w=0&k=20&c=-YOjhdxdWLjflmpzPyUjtYL80zhbJYqSANk6hhDPXL0=",
+		"author_name": "Jane Smith",
+		"reading_time": 8,
+		"published_date": "April 14, 2023",
+		"hashtags": ["science", "dataanalysis", "research"]
+	},
+	{
+		"id": 3,
+		"title": "Exploring Creativity Through Design",
+		"blog_img": "https://i.postimg.cc/HLQRXLDt/web-design-concepts-with-blurred-background-1134-82.jpg",
+		"author_img": "https://media.istockphoto.com/id/891418990/photo/confident-businessman-posing-in-the-office.jpg?s=612x612&w=0&k=20&c=a3PcRJAN9QTIfOUJj566B_I4xx2LANZFnX90_-Oe7CI=",
+		"author_name": "Alex Johnson",
+		"reading_time": 15,
+		"published_date": "Sept 3, 2023",
+		"hashtags": ["design", "creativity", "art"]
+	},
+	{
+		"id": 4,
+		"title": "A Guide to Healthy Living",
+		"blog_img": "https://i.postimg.cc/mgWSMyb0/top-view-vegetable-composition-with-fruits-white-background-140725-141207.jpg",
+		"author_img": "https://media.istockphoto.com/id/1289220545/photo/beautiful-woman-smiling-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=qmOTkGstKj1qN0zPVWj-n28oRA6_BHQN8uVLIXg0TF8=",
+		"author_name": "Emily Brown",
+		"reading_time": 12,
+		"published_date": "Feb 7, 2024",
+		"hashtags": ["health", "nutrition", "fitness"]
+	}
+]
