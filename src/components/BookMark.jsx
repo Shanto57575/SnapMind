@@ -6,9 +6,9 @@ const BookMark = () => {
 	console.log(AddedBlogs);
 
 	return (
-		<div className="w-full md:w-1/3 mx-auto font-serif text-center ml-5 pt-5 px-5">
+		<div className="w-full md:w-1/3 mx-auto font-serif text-center md:ml-5 pt-5 px-5">
 			<div className="bg-gray-200 border p-4 font-bold rounded-lg">
-				Spent time on read : {0} min
+				Spent time on read : {readingTime ? readingTime : 0} min
 			</div>
 			<div className="bg-gray-200 mt-5 p-4 rounded-lg">
 				<h1 className="mb-3 font-bold">

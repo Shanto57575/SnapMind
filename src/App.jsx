@@ -4,7 +4,7 @@ import Header from "./components/Header";
 
 const App = () => {
 	return (
-		<div className="container max-w-5xl mx-auto mt-3">
+		<div className="container max-w-5xl mx-2 md:mx-auto mt-3">
 			<Header />
 			<div className="md:flex justify-between">
 				<Blogs />

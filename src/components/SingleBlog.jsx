@@ -27,7 +27,7 @@ const SingleBlog = ({ blog }) => {
 						alt=""
 					/>
 					<div>
-						<h1 className="font-bold font-serif">{author_name}</h1>
+						<h1 className="md:font-bold font-serif">{author_name}</h1>
 						<h3>{published_date}</h3>
 					</div>
 				</div>
@@ -38,8 +38,8 @@ const SingleBlog = ({ blog }) => {
 					</button>
 				</div>
 			</div>
-			<h1 className="font-bold text-3xl">{title}</h1>
-			<div className="flex items-center gap-x-3 text-lg text-blue-600">
+			<h1 className="font-bold text-xl md:text-3xl">{title}</h1>
+			<div className="flex items-center gap-x-3 text-sm md:text-lg text-blue-600">
 				{hashtags.map((hash, idx) => (
 					<p key={idx}>#{hash}</p>
 				))}
